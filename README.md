@@ -20,7 +20,7 @@
  Follow these steps to install the application.
 1. Clone the Repository
 ```
-git clone https://github.com/MusheAbdulHakim/Pharmacy-management-system.git
+git clone https://github.com/SakhrWahib/laravel-Pharmacy-management-system.git
 ```
 2. Go to project directory
 
@@ -85,7 +85,6 @@ http://127.0.0.1:8000
  password: admin
 ```
 
-Theme: https://themeforest.net/item/doccure-doctor-appointment-booking-system-bootstrap-angular-template/28201296
 
 # Usage
 
