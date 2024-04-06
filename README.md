@@ -85,6 +85,22 @@ http://127.0.0.1:8000
  email: admin@admin.com
  password: admin
 ```
+# RESTful APIs
+
+You can find detailed documentation for the RESTful APIs of this pharmacy management system using the following Postman link:
+
+[Pharmacy Management System APIs](https://documenter.getpostman.com/view/32834455/2sA35LWzqQ#80b8242e-44f2-46b4-a89d-a4d5699e3726)
+
+These APIs provide endpoints for various functionalities including:
+
+- Managing categories
+- Managing products
+- Managing purchases
+- Managing sales
+- Managing settings
+- And more...
+
+Feel free to explore the API documentation for more details on available endpoints, request payloads, and response structures.
 
 
 # Usage
