@@ -81,3 +81,7 @@ Route::middleware(['guest'])->group(function () {
     Route::get('reset-password/{token}',[ResetPasswordController::class,'index'])->name('password.reset');
     Route::post('reset-password',[ResetPasswordController::class,'resetPassword'])->name('password.update');
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
